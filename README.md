@@ -10,7 +10,7 @@ commands to run app
 
 4)pod install
 
-5) cd ..
+5)cd ..
 
-6) npm run android
+6)npm run android
 
